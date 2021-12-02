@@ -15,3 +15,8 @@ https://www.udemy.com/course/python-scikit-learn/
 - Matplotlib:  3.1.3
 - Scipy:  1.4.1
 - Pandas:  1.0.3
+
+# 学習したこと
+jupyter-notebookを利用してまとめを作成していった。
+
+（学習した内容）
