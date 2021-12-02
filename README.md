@@ -20,3 +20,4 @@ https://www.udemy.com/course/python-scikit-learn/
 jupyter-notebookを利用してまとめを作成していった。
 
 （学習した内容）
+asdfadsfadsf
